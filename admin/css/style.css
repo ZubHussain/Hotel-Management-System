@@ -1,0 +1,64 @@
+.availability-form{
+    margin-top: -50px;
+    z-index: 2;
+    position: relative;
+}
+#tv{
+    height: 25vh;
+}
+h2:hover{
+    letter-spacing: 1rex;
+    transition-duration: .3s;
+}
+.h-line{
+    width: 150px;
+    margin: 0 auto;
+    height: 1.7px;
+}
+.avail:hover{
+    background-color:#7DCEA0   !important;
+    transform: scale(1.03);
+      transition: all 0.3s;
+      color: white;
+}
+.rooms:hover{
+    background-color:#7DCEA0   !important;
+    transform: scale(1.03);
+      transition: all 0.3s;
+      color: white;
+}
+.facil:hover{
+    background-color:#7DCEA0   !important;
+    transform: scale(1.03);
+      transition: all 0.3s;
+      color: white;
+}
+.cont:hover{
+    background-color:#7DCEA0   !important;
+    transform: scale(1.03);
+      transition: all 0.3s;
+      color: white;
+}
+.map:hover{
+    transform: scale(1.03) !important;
+      transition: all 0.3s;
+     
+}
+.card:hover{
+    transform: scale(1.03) !important;
+      transition: all 0.3s;
+     
+}
+.custom-alert{
+    position: fixed;
+    top: 80px;
+    right: 25px;
+}
+.dashboard-menu{
+    height: 100% !important;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    z-index: 11;
+}
+
